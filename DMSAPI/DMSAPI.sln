@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DMSAPI", "DMSAPI.csproj", "{F445F513-7427-42A4-93CA-2D17476F8502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F445F513-7427-42A4-93CA-2D17476F8502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F445F513-7427-42A4-93CA-2D17476F8502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F445F513-7427-42A4-93CA-2D17476F8502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F445F513-7427-42A4-93CA-2D17476F8502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB437A3E-A632-487F-BFE8-EF67AF1ABB97}
+	EndGlobalSection
+EndGlobal

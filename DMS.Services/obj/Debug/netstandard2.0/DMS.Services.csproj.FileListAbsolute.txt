@@ -1,0 +1,11 @@
+E:\DocumentManagementSoftware\DMS.Services\bin\Debug\netstandard2.0\DMS.Services.deps.json
+E:\DocumentManagementSoftware\DMS.Services\bin\Debug\netstandard2.0\DMS.Services.dll
+E:\DocumentManagementSoftware\DMS.Services\bin\Debug\netstandard2.0\DMS.Services.pdb
+E:\DocumentManagementSoftware\DMS.Services\bin\Debug\netstandard2.0\DMS.Models.dll
+E:\DocumentManagementSoftware\DMS.Services\bin\Debug\netstandard2.0\DMS.Models.pdb
+E:\DocumentManagementSoftware\DMS.Services\obj\Debug\netstandard2.0\DMS.Services.csprojAssemblyReference.cache
+E:\DocumentManagementSoftware\DMS.Services\obj\Debug\netstandard2.0\DMS.Services.AssemblyInfoInputs.cache
+E:\DocumentManagementSoftware\DMS.Services\obj\Debug\netstandard2.0\DMS.Services.AssemblyInfo.cs
+E:\DocumentManagementSoftware\DMS.Services\obj\Debug\netstandard2.0\DMS.Services.csproj.CopyComplete
+E:\DocumentManagementSoftware\DMS.Services\obj\Debug\netstandard2.0\DMS.Services.dll
+E:\DocumentManagementSoftware\DMS.Services\obj\Debug\netstandard2.0\DMS.Services.pdb
