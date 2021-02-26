@@ -1,6 +1,5 @@
 E:\DocumentManagementSoftware\DMSAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
 E:\DocumentManagementSoftware\DMSAPI\bin\Debug\netcoreapp3.1\appsettings.json
-E:\DocumentManagementSoftware\DMSAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 E:\DocumentManagementSoftware\DMSAPI\bin\Debug\netcoreapp3.1\DMSAPI.exe
 E:\DocumentManagementSoftware\DMSAPI\bin\Debug\netcoreapp3.1\DMSAPI.deps.json
 E:\DocumentManagementSoftware\DMSAPI\bin\Debug\netcoreapp3.1\DMSAPI.runtimeconfig.json
@@ -129,3 +128,6 @@ E:\DocumentManagementSoftware\DMSAPI\obj\Debug\netcoreapp3.1\DMSAPI.RazorTargetA
 E:\DocumentManagementSoftware\DMSAPI\obj\Debug\netcoreapp3.1\DMSAPI.csproj.CopyComplete
 E:\DocumentManagementSoftware\DMSAPI\obj\Debug\netcoreapp3.1\DMSAPI.dll
 E:\DocumentManagementSoftware\DMSAPI\obj\Debug\netcoreapp3.1\DMSAPI.pdb
+E:\DocumentManagementSoftware\DMSAPI\obj\Debug\netcoreapp3.1\DMSAPI.csproj.CoreCompileInputs.cache
+E:\DocumentManagementSoftware\DMSAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\DMSAPI.styles.css
+E:\DocumentManagementSoftware\DMSAPI\obj\Debug\netcoreapp3.1\DMSAPI.genruntimeconfig.cache
