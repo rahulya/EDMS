@@ -127,13 +127,8 @@ namespace DMSAPI.BusinessLogic.Customer
             return _dll.GetFormEntryList();
         }
         internal string CreateCustomerDocumentUdf(CustomerDocumentUdf customerDocumentUdf)
-        {
-           
-         
+        {      
             return _dll.CreateCustomerDocumentUdf(customerDocumentUdf);
-
-
-
         }
     }
 }
