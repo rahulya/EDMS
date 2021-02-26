@@ -471,9 +471,9 @@ namespace DMSAPI.Controllers
             }
             catch (Exception ex)
             {
-
                 throw ex;
             }
+            //rahul uptdae
 
         }
     }
